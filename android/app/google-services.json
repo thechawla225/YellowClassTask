@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199396049546",
+    "project_id": "ankitchawla-86ada",
+    "storage_bucket": "ankitchawla-86ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199396049546:android:cdc6de3bcafd283b446373",
+        "android_client_info": {
+          "package_name": "com.ankit_chawla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199396049546-fseqmsm3iveaqv0gvqrjchjsnr573s8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankit_chawla",
+            "certificate_hash": "0d2335993b0ce85d028b2f1bc190b87ab537ef81"
+          }
+        },
+        {
+          "client_id": "199396049546-5j3nvntr2b59sjtcjsg6c1kt4ttl9enu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqP-jwnJGGxo-PDqdqBbywyAsn_I678Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199396049546-5j3nvntr2b59sjtcjsg6c1kt4ttl9enu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
