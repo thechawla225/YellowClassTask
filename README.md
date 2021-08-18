@@ -1,16 +1,21 @@
-# ankit_chawla
+# Ankit Chawla task for Yellow Class selection process
 
-Yellow Class task Ankit Chawla
+## This is a simple movie application thta uses HIVE to keep track of all movies.
 
-## Getting Started
+## Taks accomplished:
+## 1. User can add/edit/delete movies.
+## 2. Each movie has name, director, and poster.
+## 3. The app uses HIVE to manage data.
+## 4. Persistent google authentication has been enabled.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Public google drive link for apk:
+
+https://drive.google.com/file/d/1WTWogF4TMKIZD5H_zDxCuWj9cDWFKoIU/view?usp=sharing
+
+Public google drive link for Demo Video:
+
+https://drive.google.com/file/d/1qg7QnI4QjWHf2FmZ3tOH8RFLsDL6_--l/view?usp=sharing
