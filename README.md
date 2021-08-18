@@ -12,7 +12,7 @@
 
 
 
-Public google drive link for apk:
+Public google drive link for apk(also available in this repo):
 
 https://drive.google.com/file/d/1WTWogF4TMKIZD5H_zDxCuWj9cDWFKoIU/view?usp=sharing
 
